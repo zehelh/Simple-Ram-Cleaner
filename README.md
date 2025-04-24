@@ -27,7 +27,7 @@ Utilitaire simple et efficace pour nettoyer la mémoire cache des processus Wind
 
 ### Téléchargement
 
-Téléchargez la dernière version sur la page des [releases](https://github.com/zehelh/simple_ram_cleaner/releases).
+Téléchargez la dernière version sur la page des [releases](https://github.com/zehelh/Simple-Ram-Cleaner/releases).
 
 ### Compilation
 
