@@ -1,0 +1,33 @@
+# Requirements pour le développement de CleanRam
+# Dépendances de l'environnement de développement uniquement, l'application étant compilée en Rust
+
+# Outils de développement Rust
+rustup==1.25.2
+cargo==0.70.0
+rustc==1.70.0
+
+# Outils recommandés pour le développement
+cargo-watch==8.4.0    # Pour le développement avec rechargement automatique
+cargo-edit==0.11.9    # Pour gérer facilement les dépendances
+cargo-outdated==0.11.2 # Pour vérifier les dépendances obsolètes
+
+# Outils pour la génération des ressources Windows
+winres==0.1.12       # Ressources Windows
+
+# Outils pour le profiling et le débogage (optionnels)
+cargo-flamegraph==0.6.1  # Pour générer des flamegraphs de performance
+
+# Dépendances principales (spécifiées dans Cargo.toml)
+windows = "0.48.0"
+anyhow = "1.0"
+is_elevated = "0.1"
+chrono = "0.4"
+egui = "0.22.0"
+eframe = "0.22.0"
+poll-promise = "0.3.0"
+
+# Dépendances de build
+embed-resource = "2.3"
+
+# Compilation Tools
+cc = "1.0" 
