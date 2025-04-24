@@ -14,6 +14,10 @@ Utilitaire simple et efficace pour nettoyer la mémoire cache des processus Wind
 - Tri des processus par quantité de mémoire libérée
 - Application en mode GUI pur (sans fenêtre console)
 
+## Roadmap
+
+- Nettoyage de la VRAM (support NVIDIA + AMD)
+
 ## Installation
 
 ### Prérequis
@@ -23,7 +27,7 @@ Utilitaire simple et efficace pour nettoyer la mémoire cache des processus Wind
 
 ### Téléchargement
 
-Téléchargez la dernière version sur la page des [releases](https://github.com/VOTRE_USERNAME/simple_ram_cleaner/releases).
+Téléchargez la dernière version sur la page des [releases](https://github.com/zehelh/simple_ram_cleaner/releases).
 
 ### Compilation
 
